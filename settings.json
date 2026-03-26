@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LastleafSMP.aternos.me",
+    "ip": "carpetshark.aternos.host:59935",
     "port": 59935,
     "version": "",
     "try-creative": false
